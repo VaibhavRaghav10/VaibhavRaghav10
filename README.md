@@ -1,8 +1,52 @@
+# 💫 About Me:
+
+👨‍💻 I’m actively building and breaking things across AI systems, backend engineering, and scalable applications using Python and a bit of JavaScript.
+
+🤖 Currently working on LLM-powered systems — experimenting with prompt routing, multi-model workflows, and making AI useful beyond just chat.
+
+⚙️ I spend a lot of time engineering web applications with proper layered architecture (services, repositories, APIs) — focusing on making things production-ready, not just demo-worthy.
+
+🌱 Currently learning more about:
+
+* System design for AI applications
+* How real-world LLM systems handle cost, latency, and reliability
+* Writing cleaner, more scalable backend code
+
+🥅 Goals 2026:
+
+* Become solid in AI Engineering (GenAI + systems)
+* Build at least one production-grade AI project
+* Get really comfortable with system design & backend architecture
+* Ship projects that actually solve real problems
+
+🧠 I enjoy diving deep into how things work — whether it’s AI models, backend systems, or distributed architectures.
+
+☕ Coffee, late-night debugging, tech discussions, and overthinking system design decisions.
+
+---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vaibhav-raghav-b5b01b25b/)
+
+---
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat\&logo=mongodb\&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat\&logo=next.js\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat\&logo=c%2B%2B\&logoColor=white)
+![Three js](https://img.shields.io/badge/threejs-black?style=flat\&logo=three.js\&logoColor=white)
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
